@@ -1,3 +1,5 @@
+remote_theme: artemsheludko/flexible-jekyll
+
 title: Hello, world! I'm David Freeman
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
