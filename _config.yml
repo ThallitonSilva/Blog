@@ -13,8 +13,8 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Thalliton Silva # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: Biólogo. Cientista de dados. Bioiformata. Mestrando em Biotecnologia Vegetal (EMBRAPA - UFLA). # add description
-social-twitter: # add your Twitter handle
+about-author: Biólogo / Cientista de dados / Bioinformata / Mestrando em Biotecnologia Vegetal (EMBRAPA - UFLA) # add description
+social-twitter: ThallitonS # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: ThallitonSilva # add your Github handle
 social-linkedin: # add your Linkedin handle
