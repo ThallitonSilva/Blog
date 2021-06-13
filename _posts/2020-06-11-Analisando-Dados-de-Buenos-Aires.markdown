@@ -8,7 +8,7 @@ img: # Add image post (optional)
 
 ## A viagem
 
-Sempre que pensamos em viajar, vem a duvida em nossa cabeça: "Vou ficar em um Hotel? Uma pousada? Talvez um Hostel? Ou vou instigar meu lado aventureiro e irei acampar?"
+Sempre que **pensamos em viajar**, vem a duvida em nossa *cabeça*: "Vou ficar em um Hotel? Uma pousada? Talvez um Hostel? Ou vou instigar meu lado aventureiro e irei acampar?"
 
 Claro que tudo isso depende de diversos fatores, é complicado querer acampar se você vai viajar com sua família e tem um filho pequeno. Da mesma forma, querer ficar em um hotel 5 estrelas quando se tem a diária de 8 pessoas para pagar, pode ficar um pouco salgado para sua carteira - dependendo de quanto você ganha. E, portanto, escolher o local no qual você irá passar suas noites de descanso se tornam uma tarefa crucial no planejamento da sua viagem.
 
